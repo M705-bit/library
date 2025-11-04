@@ -1,1 +1,1 @@
-Aibda estou trabalhando nesse projeto, estou tentand persistir os dados. Por enquanto não vou usar banco de dados, pois o objetivo desse projeto é aprender node.js, express e praticar javascript. Não tenho noção nenhuma de bancos de dados.
+Trabalho em progresso
